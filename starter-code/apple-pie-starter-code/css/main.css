@@ -1,0 +1,33 @@
+
+body {
+    text-align: left;
+}
+.background_pie {
+    margin: 0;
+    background-image: url("../images/apple-pie.jpg");
+    height: 600px;
+    background-size: cover;
+    
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    padding-top: 300px; 
+}
+ul {
+    margin-left: 20;
+    padding-left: 0;
+  }
+.margin_top {
+    padding-top: 30px;
+}
+div {
+    padding: 0px 0px 0px 40px;
+    font-family: Open Sans;
+    font-weight: 300, 600;
+    font-size: 18px;
+}
+h2 {
+    padding: 0px 0px 0px 40px;
+}
